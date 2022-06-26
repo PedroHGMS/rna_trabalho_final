@@ -1,1 +1,9 @@
+LeCun, Y., Cortes, C. and Burges, C.J.C. (1998) The MNIST Database of Handwritten Digits. New York, USA. \url{http://yann.lecun.com/exdb/mnist/}
 
+Mushroom Data Set, \url{https://archive.ics.uci.edu/ml/datasets/Mushroom}
+
+Statlog (Australian Credit Approval) Data Set , \url{https://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)}
+
+Wine Quality Data Set, \url{https://archive.ics.uci.edu/ml/datasets/Wine+Quality}
+
+Real estate valuation data Set, \url{https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set}
